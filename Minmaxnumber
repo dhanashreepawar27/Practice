@@ -2,9 +2,9 @@ class Minmax
 {  
 public static void main(String[]args)
 {
-num1=7;
-num2=6;
-if(num1>nmu2)
+int num1=7;
+int num2=6;
+if(num1>nu m2)
 {
 System.out.println("num1 is greater");
 }
