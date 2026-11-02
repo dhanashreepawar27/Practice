@@ -5,15 +5,15 @@ int age=22;
 String city="Pune";
    public void name()
       {
-      System.out.println("Name:"+name);
+      System.out.println("Name:-"+name);
        }
      public void age()
       {
-      System.out.println("Age:"+age);
+      System.out.println("Age:-"+age);
        }
        public void city()
       {
-      System.out.println("City:"+city);
+      System.out.println("City:-"+city);
        } 
 public static void main(String[]args)
 {
