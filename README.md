@@ -17,7 +17,7 @@ Understand basic programming concepts.
 
 Practise problem-solving.
 
-Author
+### Author
 
-Dhanashree Pawar
+### Dhanashree Pawar
 
