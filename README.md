@@ -7,7 +7,7 @@
 -To understand and use conditions ,loops in program
 
 ### Technology used:-JAVA
-Learning Objectives
+### Learning Objectives
 
 Improve Java programming skills.
 
